@@ -1,2 +1,2 @@
 # hello-world
-First repository created to learn git. 
+This repository was created so I could learn git and contribute to open source proyects as a designer. 
